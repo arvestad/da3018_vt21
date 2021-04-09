@@ -1,4 +1,5 @@
-# A story in DA3018
+#
+ A story in DA3018
 
 Two tomatoes were crossing a road, when one of them suddenly got run over by a taxi cab.
 Then the other tomato said: Hey friend, catch up!
@@ -16,3 +17,6 @@ But the cab driver was long gone. Not willing to leave his saucy friend behind T
 quickly scooped Ketchup into a rusty old bucket he found sitting next to the road.
 "Lets not let this keep us down!", said Tomato while skipping off the road,
 "Gurglegurgle", answered Ketchup.
+
+After a while, Tomato comes up with a brilliant idea and walks in to a grocery story and buys a bunch of
+gelatin in hope of being able to solidify his friend again.
